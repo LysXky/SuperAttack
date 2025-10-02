@@ -1,0 +1,6 @@
+Dominio,Subdominio,DNS_Existe,HTTP_Accesible,Protocolo,Puertos_Abiertos
+example.com,www.example.com,Sí,Sí,https,80;443
+example.com,mail.example.com,Sí,No,N/A,25;110;143;993;995
+example.com,ftp.example.com,Sí,No,N/A,21;22
+example.com,api.example.com,Sí,Sí,https,80;443;8080
+example.com,admin.example.com,Sí,Sí,https,80;443;8443
