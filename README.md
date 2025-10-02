@@ -35,6 +35,6 @@ Cada dominio analizado genera:
 - Resumen estadístico en consola
 
 ---
-**Desarrollado por:** Especialista Cloud Security  
+**Desarrollado por:** Lysxky
 **Versión:** 1.0  
 **Fecha:** Octubre 2025
